@@ -1,24 +1,3 @@
 .App {
   text-align: center;
 }
-
-.navbar{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between
-}
-
-.lista{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-
-.item{
-  justify-content: space-between;
-}
-
-.carrito{
-  display: flex;
-  
-}

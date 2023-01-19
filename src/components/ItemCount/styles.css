@@ -1,0 +1,14 @@
+
+.counter {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    margin: 40px;
+}
+
+.controllers {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
